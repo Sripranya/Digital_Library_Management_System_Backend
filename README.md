@@ -47,6 +47,22 @@ Reading Progress:
 ## Database schema diagram 
 ![image alt](https://github.com/Sripranya/Digital_Library_Management_System_Backend/blob/e62d351c83e90ac088da38d4f2501e54eb76bfc2/Screenshot%202024-11-10%20233139.png)
 ## Example API requests and responses 
+1.Books
+-Get All Books
+   Endpoint: GET /api/books
+   Description: Retrieves a list of all books.
+   Response:
+
+2.Members
+-Register a New Member
+
+   Endpoint: POST /api/members
+   Description: Adds a new member to the library.
+   Request Body:
+
+   Response:
+
+      
 
     
   
