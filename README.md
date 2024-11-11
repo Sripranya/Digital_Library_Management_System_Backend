@@ -44,7 +44,7 @@ Reading Progress:
 - POST /api/progress - Update reading progress
 - GET /api/progress/analytics/member/:memberId - Get member’s reading analytics
 
-
+##Database schema diagram 
 
 
     
