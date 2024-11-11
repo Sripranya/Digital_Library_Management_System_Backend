@@ -52,8 +52,9 @@ Reading Progress:
 
    -Endpoint: GET /api/books
    -Description: Retrieves a list of all books.
-   -Response:
-      ![image alt](https://github.com/Sripranya/Digital_Library_Management_System_Backend/blob/b25633f8d7ab6dc445358d95abadd044fb63ae06/Book_img.png)
+   ### Response:
+      
+   ![image alt](https://github.com/Sripranya/Digital_Library_Management_System_Backend/blob/b25633f8d7ab6dc445358d95abadd044fb63ae06/Book_img.png)
 2.Members
 -Register a New Member
 
