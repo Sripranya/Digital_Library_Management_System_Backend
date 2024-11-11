@@ -67,10 +67,12 @@ Reading Progress:
    
    -Description: Adds a new member to the library.
    
-   ###Request Body:
+   ### Request Body:
+   
    ![image alt](https://github.com/Sripranya/Digital_Library_Management_System_Backend/blob/f1337bc58f64c425f82f42837a83b9d9e691edfa/Member_img1.png)
       
-   ###Response:
+   ### Response:
+   
    ![image alt](https://github.com/Sripranya/Digital_Library_Management_System_Backend/blob/e039bb314c3196241bd070e13e0626cb28000913/Member_img2.png)
       
 
