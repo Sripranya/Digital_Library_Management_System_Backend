@@ -23,19 +23,22 @@ Books:
 - GET /api/books/:id - Get book details with availability
 - POST /api/books - Add new book
 - PUT /api/books/:id - Update book details
-- GET /api/books/genre/:genre - Get books by genre 
+- GET /api/books/genre/:genre - Get books by genre
+  
 Members:
 - GET /api/members - List members with pagination
 - GET /api/members/:id - Get member details with current borrowings
 - POST /api/members - Register new member
 - PUT /api/members/:id - Update member details
-- GET /api/members/:id/history - Get borrowing history 
+- GET /api/members/:id/history - Get borrowing history
+  
 Borrowings: 
 - GET /api/borrowings - List all borrowings with pagination
 - POST /api/borrowings - Create new borrowing
 - PUT /api/borrowings/:id/return - Process return
 - GET /api/borrowings/overdue - Get overdue borrowings
-- GET /api/borrowings/member/:memberId - Get member’s borrowings 
+- GET /api/borrowings/member/:memberId - Get member’s borrowings
+  
 Reading Progress:
 - GET /api/progress/:borrowingId - Get reading progress
 - POST /api/progress - Update reading progress
